@@ -1,0 +1,10 @@
+{
+  "registrationEnabled": true,
+  "users": {
+    "replace-with-your-username": {
+      "allow": ["source:postgres", "ai:plan"]
+    }
+  },
+  "aiProviders": [],
+  "databaseDestinations": []
+}
